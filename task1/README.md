@@ -6,11 +6,10 @@ This project is aimed at practicing **data visualization, data analysis, and mac
 ---
 
 ## 📌 Tasks Completed
-- **Task 01:** Bar chart / histogram to visualize data distribution
+- **Task 01:** [Bar chart / histogram to visualize data distribution](./Task_01_BarChart/)
 - **Task 02:** (Will be added soon)
 
 ---
-
 
 ## 🛠 Technologies Used
 - Python
@@ -20,7 +19,7 @@ This project is aimed at practicing **data visualization, data analysis, and mac
 ---
 
 ## 📊 Output Preview (Task 01)
-![Bar Chart Output](output_chart.png)
+![Bar Chart Output](Task_01_BarChart/output_chart.png)
 
 ---
 
@@ -30,6 +29,7 @@ Clone the repo and open the notebook:
 git clone https://github.com/your-username/SkillCraft-DataScience-Internship.git
 cd SkillCraft-DataScience-Internship/Task_01_BarChart
 python task_01.py
+```
 
 ---
 

@@ -14,7 +14,7 @@ This project is aimed at practicing **data visualization, data analysis, and mac
 
 ## 🛠 Technologies Used
 - Python
-- Jupyter Notebook
+- VS Code (Code editor)
 - Matplotlib / Pandas / NumPy
 
 ---
@@ -31,3 +31,13 @@ git clone https://github.com/your-username/SkillCraft-DataScience-Internship.git
 cd SkillCraft-DataScience-Internship/Task_01_BarChart
 python task_01.py
 
+---
+
+## 🤝 Connect With Me
+- **LinkedIn:** [www.linkedin.com/in/piyushpatil06](https://www.linkedin.com/in/piyushpatil06)
+- **GitHub:** [https://github.com/piyushpatil-art](https://github.com/piyushpatil-art)
+
+---
+
+## 📄 License
+This project is for educational purposes only.

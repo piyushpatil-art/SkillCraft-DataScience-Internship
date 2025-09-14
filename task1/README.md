@@ -20,7 +20,7 @@ This project is aimed at practicing **data visualization, data analysis, and mac
 ---
 
 ## 📊 Output Preview (Task 01)
-![Bar Chart Output](Task_01_BarChart/output_chart.png)
+![Bar Chart Output](output_chart.png)
 
 ---
 

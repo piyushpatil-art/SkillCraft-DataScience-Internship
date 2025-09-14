@@ -29,4 +29,5 @@ Clone the repo and open the notebook:
 ```bash
 git clone https://github.com/your-username/SkillCraft-DataScience-Internship.git
 cd SkillCraft-DataScience-Internship/Task_01_BarChart
-jupyter notebook task_01.py
+python task_01.py
+

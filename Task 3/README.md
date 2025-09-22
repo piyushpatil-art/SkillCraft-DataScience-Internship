@@ -50,7 +50,7 @@ The **Bank Marketing Dataset** from the [UCI Machine Learning Repository](https:
 
 ## 📈 Results  
 - **Decision Tree Visualization**  
-  ![Decision Tree](decision_tree_visual.png)  
+  ![Decision Tree](decision_tree.png)  
 
 - **Confusion Matrix**  
   ![Confusion Matrix](confusion_matrix.png)  
